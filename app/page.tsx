@@ -322,7 +322,7 @@ export default function HomePage() {
               Our Philosophy
             </p>
             <h2 className="mt-4 font-display text-4xl font-semibold leading-tight tracking-tight text-cream text-balance sm:text-5xl">
-              Talent has no postcode. Opportunity should have no boundaries.
+              Talent has no. Opportunity should have no boundaries.
             </h2>
           </Reveal>
           <Reveal delay={150}>
